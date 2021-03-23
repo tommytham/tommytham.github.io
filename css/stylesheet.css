@@ -1,0 +1,148 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(231, 255, 247);
+}
+h1 {
+  color: #66bfbf;
+  font-size: 700%;
+  font-family: "Reenie Beanie", cursive;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2rem;
+  line-height: 2;
+}
+
+h3 {
+  color: #11999e;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: grey;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: rgb(183, 255, 255);
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+.introduction {
+  width: 20%;
+  margin: auto;
+}
+.skills {
+  margin-top: 100px;
+}
+
+.profile-picture {
+  border-radius: 30%;
+}
+
+.top-cloud {
+  right: 300px;
+  top: 10px;
+  position: absolute;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+}
+
+.skill-row {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 200px auto;
+  text-align: left;
+}
+
+.coding-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.gaming-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  padding-bottom: 50px;
+}
+.contact-me-information {
+  width: 20%;
+  margin: 50px auto auto auto;
+}
+.contact-me-btn {
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  border-radius: 16px;
+  height: 2px;
+  line-height: 2px;
+  color: #ffffff;
+  font-family: Brush Script MT;
+  width: 135px;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 21px;
+  background-color: #3d94f6;
+  border: solid #337fed 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px auto;
+}
+
+.contact-me-btn:hover {
+  background: #1e62d0;
+  border: solid #000000 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.footer-link {
+  color: #11999e;
+  margin-right: 30px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.footer-copyright {
+  margin-top: 50px;
+  color: #eaf6f6;
+}
