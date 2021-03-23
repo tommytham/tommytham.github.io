@@ -2,10 +2,10 @@ body {
   margin: 0px;
   text-align: center;
   font-family: "Montserrat", sans-serif;
-  background-color: rgb(231, 255, 247);
+  background-color: rgb(217, 250, 242);
 }
 h1 {
-  color: #66bfbf;
+  color: #38c5c5;
   font-size: 700%;
   font-family: "Reenie Beanie", cursive;
 }
@@ -42,7 +42,7 @@ hr {
 }
 
 .top-container {
-  background-color: rgb(183, 255, 255);
+  background-color: rgb(255, 255, 255);
   position: relative;
   padding-top: 100px;
 }
